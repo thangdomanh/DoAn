@@ -1,0 +1,9 @@
+{
+  "tfjsVersion": "2.15.0",
+  "tmVersion": "0.14.0",
+  "timeStamp": "2024-05-26T12:46:33.468872Z",
+  "userMetadata": {},
+  "modelName": "tm-my-image-model",
+  "labels": "capsicum, sweetcorn, orange, tomato, turnip, ginger, raddish, pomegranate, pineapple, jalepeno, apple, carrot, lettuce, bell pepper, eggplant, beetroot, kiwi, pear, cabbage, cauliflower, paprika, lemon, sweetpotato, grapes, cucumber, corn, banana, garlic, chilli pepper, watermelon, mango, peas, onion, potato, spinach, soy beans",
+  "imageSize": 224
+}
